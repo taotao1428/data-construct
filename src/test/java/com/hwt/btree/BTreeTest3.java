@@ -23,17 +23,17 @@ public class BTreeTest3 {
 
     @Test
     public void deleteTest() {
-//        ElemPos pos;
+//        KeyPos pos;
 //        pos = findPos(tree, 10);
 
-//        List<ElemPos> way = new LinkedList<>();
+//        List<KeyPos> way = new LinkedList<>();
 //        boolean found = findPosToDelete(findPos(tree, 10).node, way, false);
 //        assertTrue(found);
 
-//        List<ElemPos> leftWay = new LinkedList<>();
-//        List<ElemPos> rightWay = new LinkedList<>();
+//        List<KeyPos> leftWay = new LinkedList<>();
+//        List<KeyPos> rightWay = new LinkedList<>();
 //
-//        List<ElemPos> bestWay = findPosToDelete2(pos.node.parent, 0, leftWay, rightWay);
+//        List<KeyPos> bestWay = findPosToDelete2(pos.node.parent, 0, leftWay, rightWay);
 //
 //        int a = 1;
 //        bestWay = findPosToDelete2(tree, idxParent,
